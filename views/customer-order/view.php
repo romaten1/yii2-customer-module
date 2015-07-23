@@ -4,7 +4,7 @@ use yii\helpers\Html;
 use yii\widgets\DetailView;
 
 /* @var $this yii\web\View */
-/* @var $model app\modules\customer\models\CustomerOrder */
+/* @var $model romaten1\customer\models\CustomerOrder */
 
 $this->title = 'Заказ №' . $model->id;
 $this->params['breadcrumbs'][] = ['label' => 'Заказы покупателей', 'url' => ['index']];

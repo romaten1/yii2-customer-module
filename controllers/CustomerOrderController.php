@@ -1,9 +1,9 @@
 <?php
 
-namespace app\modules\customer\controllers;
+namespace romaten1\customer\controllers;
 
 use Yii;
-use app\modules\customer\models\CustomerOrder;
+use romaten1\customer\models\CustomerOrder;
 use yii\data\ActiveDataProvider;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;

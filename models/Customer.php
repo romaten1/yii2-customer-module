@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\customer\models;
+namespace romaten1\customer\models;
 
 use Yii;
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace app\modules\customer\controllers;
+namespace romaten1\customer\controllers;
 
 use Yii;
-use app\modules\customer\models\Customer;
-use app\modules\customer\models\CustomerSearch;
+use romaten1\customer\models\Customer;
+use romaten1\customer\models\CustomerSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

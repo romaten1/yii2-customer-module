@@ -1,11 +1,11 @@
 <?php
 
-use app\modules\customer\models\Customer;
+use romaten1\customer\models\Customer;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
 /* @var $this yii\web\View */
-/* @var $model app\modules\customer\models\CustomerOrder */
+/* @var $model romaten1\customer\models\CustomerOrder */
 /* @var $form yii\widgets\ActiveForm */
 ?>
 

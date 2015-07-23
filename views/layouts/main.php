@@ -1,5 +1,5 @@
 <?php
-use app\modules\customer\assets\CustomerAsset;
+use romaten1\customer\assets\CustomerAsset;
 use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
 use yii\helpers\Html;

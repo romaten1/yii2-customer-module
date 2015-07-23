@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\modules\customer\assets;
+namespace romaten1\customer\assets;
 
 use yii\web\AssetBundle;
 
